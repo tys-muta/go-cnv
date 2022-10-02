@@ -1,4 +1,4 @@
-module github.com/tys-muta/go-spn
+module github.com/tys-muta/go-cnv
 
 go 1.18
 
